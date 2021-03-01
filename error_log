@@ -1,0 +1,8 @@
+[18-Feb-2021 11:47:56 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Admin::update_materi() in /home/k7980598/kelas.aveecena.com/application/controllers/Admin.php on line 320
+[18-Feb-2021 11:48:02 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Admin::update_materi() in /home/k7980598/kelas.aveecena.com/application/controllers/Admin.php on line 320
+[18-Feb-2021 11:49:11 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Admin::update_materi() in /home/k7980598/kelas.aveecena.com/application/controllers/Admin.php on line 320
+[18-Feb-2021 11:49:41 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Admin::update_materi() in /home/k7980598/kelas.aveecena.com/application/controllers/Admin.php on line 320
+[18-Feb-2021 11:49:46 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Admin::update_materi() in /home/k7980598/kelas.aveecena.com/application/controllers/Admin.php on line 320
+[18-Feb-2021 11:50:08 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Admin::update_materi() in /home/k7980598/kelas.aveecena.com/application/controllers/Admin.php on line 320
+[26-Feb-2021 18:36:08 Asia/Jakarta] {"transaction_details":{"order_id":610533527,"gross_amount":"182000"},"item_details":[{"id":"a1","price":"182000","quantity":1,"name":"Pembayaran Kelas keperawatan Aveecena"}],"customer_details":{"first_name":"gustian","email":"gustianadamaryanto@gmail.com","phone":"082210448890"},"credit_card":{"secure":true},"expiry":{"start_time":"2021-02-26 18:36:08 +0700","unit":"hour","duration":24}}
+[26-Feb-2021 18:36:08 Asia/Jakarta] 550f612f-482a-4738-9e79-5d6c7de19122
